@@ -12,6 +12,7 @@ The Quran API is a Python-based service that provides access to the full Quran a
 2. Explore the API documentation for available endpoints and usage
 
 🔗 **API Endpoint**: quran-705q.onrender.com/surah/1
+🚀 **API URL** : https://quran-705q.onrender.com/surah/1
 
 📖 **Documentation**: Clear, concise, and easy to understand
 
